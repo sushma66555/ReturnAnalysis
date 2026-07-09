@@ -29,5 +29,4 @@ It helps to identify:
 2. Open it using **Power BI Desktop**.
 3. Explore the dashboard using slicers and filters
 
-👩‍💻 *Created by [Your Name]*  
-🔗 *GitHub Repo Link:* [Paste your repo link hee]
+👩‍💻 *Created by [Sushma Yadav]*  
