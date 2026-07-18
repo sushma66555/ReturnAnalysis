@@ -18,6 +18,20 @@ It helps to identify:
 - Trend charts showing year-wise growth/decline
 - Regional comparison through bar/column charts
 
+  ## Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](Screenshots/dashboard-overview.png)
+
+### Data Model
+![Data Model](Screenshots/data-model.png)
+
+### Interactive Filters
+![Interactive Filters](Screenshots/interactive-filters.png)
+
+### Year-wise Analysis
+  ![Year-wise Analysis](Screenshots/year-analysis.png)
+
 ## 📂 Repository Structure
 - `ReturnData.pbix` → Power BI report file
 - `Dataset/` → Source dataset (if shared)
